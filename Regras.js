@@ -28,3 +28,5 @@ console.log('Nome const;' + nome1)
 
 console.log('Nome; ' + nome + 'idade:'+ idade)
 console.log(`Nome: ${nome} idade ${idade}`)
+
+// Atualizando no githud
