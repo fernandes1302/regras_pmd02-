@@ -30,3 +30,4 @@ console.log('Nome; ' + nome + 'idade:'+ idade)
 console.log(`Nome: ${nome} idade ${idade}`)
 
 // Atualizando no githud
+// Outro comentario
